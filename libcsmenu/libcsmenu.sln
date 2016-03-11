@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libcsmenu", "libcsmenu\libcsmenu.csproj", "{001AC526-4203-4247-85AE-DFC207F41473}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libcsmenu.TestApp", "libcsmenu.TestApp\libcsmenu.TestApp.csproj", "{3A4853C2-BD6B-4025-BD6F-FFCDE4E77ACE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{001AC526-4203-4247-85AE-DFC207F41473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{001AC526-4203-4247-85AE-DFC207F41473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{001AC526-4203-4247-85AE-DFC207F41473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{001AC526-4203-4247-85AE-DFC207F41473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A4853C2-BD6B-4025-BD6F-FFCDE4E77ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A4853C2-BD6B-4025-BD6F-FFCDE4E77ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A4853C2-BD6B-4025-BD6F-FFCDE4E77ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A4853C2-BD6B-4025-BD6F-FFCDE4E77ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(CodealikeProperties) = postSolution
+		SolutionGuid = e8178e12-ea70-4dd6-8afe-b4e8dcc481ca
+	EndGlobalSection
+EndGlobal
